@@ -1,7 +1,7 @@
 <div align='center'><img style="width:30%" src='https://github.com/Aashishh1/Clone-Projects/assets/118424908/b65f8093-2135-4065-bbc1-c63df11eefc4'/></div>
 
 
-### The Clones.🚀
+ <div align='center'>       <b> The Clones.🚀</b>  </div>
 
 <h3>Build with:</h3>
 
